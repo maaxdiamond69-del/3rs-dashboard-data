@@ -2,13 +2,13 @@
   "1743926262": {
     "tracking": "NQPJK3TA",
     "base": 36232,
-    "sent": 20955,
+    "sent": 20975,
     "active": true
   },
   "1024351046": {
     "tracking": "ZML9LB33",
     "base": 36073,
-    "sent": 20551,
+    "sent": 20571,
     "active": true
   },
   "6931649574": {
@@ -57,6 +57,6 @@
     "tracking": "X4PUXG9E",
     "active": true,
     "base": 27315,
-    "sent": 454
+    "sent": 474
   }
 }
