@@ -2,26 +2,26 @@
   "1743926262": {
     "tracking": "NQPJK3TA",
     "base": 36232,
-    "sent": 25025,
+    "sent": 25045,
     "active": true
   },
   "1024351046": {
     "tracking": "ZML9LB33",
     "base": 36073,
-    "sent": 24620,
+    "sent": 24640,
     "active": true
   },
   "6931649574": {
     "tracking": "6G47YMKU",
     "active": true,
     "base": 29309,
-    "sent": 20847
+    "sent": 20867
   },
   "3865782369": {
     "tracking": "R2S8RH7U",
     "active": true,
     "base": 34981,
-    "sent": 20709
+    "sent": 20729
   },
   "981871872": {
     "tracking": "DHE3UP7Y",
@@ -33,30 +33,30 @@
     "tracking": "GHGBE4MB",
     "active": true,
     "base": 28174,
-    "sent": 17830
+    "sent": 17850
   },
   "1481491772": {
     "tracking": "FEQR6FYP",
     "active": true,
     "base": 27613,
-    "sent": 16966
+    "sent": 16986
   },
   "769189459": {
     "tracking": "JPFKGBRJ",
     "active": true,
     "base": 2,
-    "sent": 14663
+    "sent": 14683
   },
   "7481718348": {
     "tracking": "NHT3Z56Q",
     "active": true,
     "base": 34,
-    "sent": 12565
+    "sent": 12585
   },
   "3239016059": {
     "tracking": "X4PUXG9E",
     "active": true,
     "base": 27315,
-    "sent": 4405
+    "sent": 4425
   }
 }
